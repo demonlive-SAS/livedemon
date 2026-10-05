@@ -15,7 +15,7 @@ PLAYLISTS = [
     "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/s_gb.m3u8", 
     "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/s_us.m3u8", 
     "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/s247.m3u", 
-    ""
+    "", 
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
