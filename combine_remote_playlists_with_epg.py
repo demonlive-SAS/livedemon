@@ -9,8 +9,6 @@ PLAYLISTS = [
     "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/Xumo.m3u8",
     "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/dancetv.m3u8", 
     "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/direct.m3u8", 
-    "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/p_gb.m3u8", 
-    "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/p_us.m3u8", 
     "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/r.m3u8", 
     "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/s_gb.m3u8", 
     "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/s_us.m3u8", 
