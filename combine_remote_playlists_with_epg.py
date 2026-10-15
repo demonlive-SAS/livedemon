@@ -12,7 +12,7 @@ PLAYLISTS = [
     "https://github.com/demonlive-SAS/buddy_airy/raw/refs/heads/main/airy_channels.m3u", 
     "https://github.com/demonlive-SAS/buddy_lg/raw/refs/heads/main/lg_channels_us.m3u" 
     "https://github.com/demonlive-SAS/plex-fast-channels/raw/refs/heads/main/playlists/plex_us.m3u", 
-    "https://github.com/demonlive-SAS/plex-fast-channels/raw/refs/heads/main/playlists/plex_gb.m3u
+    "https://github.com/demonlive-SAS/plex-fast-channels/raw/refs/heads/main/playlists/plex_gb.m3u", 
     "https://github.com/demonlive-SAS/plex-fast-channels/raw/refs/heads/main/playlists/plex_nz.m3u", 
     "https://github.com/demonlive-SAS/plex-fast-channels/raw/refs/heads/main/playlists/plex_mx.m3u", 
     "https://github.com/demonlive-SAS/plex-fast-channels/raw/refs/heads/main/playlists/plex_es.m3u", 
