@@ -14,6 +14,7 @@ from urllib3.util.retry import Retry
 # ===== CONFIGURATION =====
 PLAYLISTS = [
     "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/300rip-wo-events.m3u8",
+    "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/pxm.m3u", 
     "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/s247.m3u",
     "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/dancetv.m3u8",
     "https://github.com/demonlive-SAS/Private-m3u-2/raw/refs/heads/main/Playlists/direct.m3u8",
